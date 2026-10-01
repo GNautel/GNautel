@@ -1,4 +1,5 @@
-## Hi there 👋
+## About Me
+My name is Grady Nautel and I am a 3rd year CSIS student at the University of Vermont.
 
 <!--
 **GNautel/GNautel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
